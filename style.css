@@ -1,0 +1,32 @@
+body {
+    font-family: louvette-pixel, sans-serif;
+    font-weight: 300;
+    outline: 2px dotted rebeccapurple;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: rebeccapurple;
+}
+
+h1 {
+    font-size: 3rem;
+    font-family: "pf-pixelscript", sans-serif;
+    font-weight: 400;
+    padding: 100px;
+}
+
+hr {
+  border: none;
+  border-top: 2px dotted rebeccapurple;
+}
+
+h2 {
+    font-family: "pf-pixelscript", sans-serif;
+    font-weight: 400;
+}
+
+p {
+    padding-left: 50px;
+    padding-right: 50px;
+}
